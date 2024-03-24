@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman";
+}
+.Image{
+    background-image: url(https://www.careersinpoland.com/media/file/articles/thumbs/950x540_who-can-study-for-free-in-poland.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 150vh;
+}
+.intro{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height:20px;
+    background-color: #007FFF;
+    text-align: center;
+    color: white;
+}
+.logo{
+    height:"42";
+    width:"42";
+}
+.menu{
+    width: 100%;
+    height:150px;
+    background-color: rgba(0,0,0,0.6);
+}
+.leftmenu{
+    margin-left: 50px
+    padding-left: 100px
+    width: 70%;
+    line-height: 100px;
+    float: left;
+}
+.rightmenu{
+    width: 65%;
+    height: 100px;
+    float: right;
+}
+.rightmenu ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+    color: white;
+    font-weight: bolder;
+    line-height: 100px;
+    margin-left: 20px;
+    margin-top: 27px;
+    margin-right: 20px;
+}
+#CoursesMenu{
+    color: orange;
+}
+#Course{
+	color: orange;
+}
+#Queries{
+	color: orange;
+}
+#cer
+{
+    color: orange;
+}
+
+#Reviews
+{
+    color: orange;
+}
+
+#Con
+{
+    color: orange;
+}
+#Homemenu{
+	color: orange;
+}
+
+
+
+.rightmenu ul li:hover{
+    color: orange;
+}
+.text{
+    width: 100%;
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.9);
+}
+.One{
+    color: orange;
+}
+.Form{
+    
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin:30px 50px 0px 50%;
+    top: 50%;
+    left: 55%;
+    
+    color: burlywood;
+    background: #2C3539;
+    font-style: oblique;
+    width: 450px
+    
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.Form h2{
+    text-align: center;
+  
+    padding: 60px;
+    color: cornsilk;
+    font-size: 30px;
+    margin-right: 40%;
+    margin-left: 30%;
+
+}
+
+.Paragraph{
+    padding: 20px;
+    border-radius: 20px;
+    margin:30px 50px 0px 50%;
+    top: 50%;
+    left: 55%;
+    
+    color: burlywood;
+    background: #2C3539;
+    font-style: oblique;
+    width: 450px
+    
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.button {
+  background-color: brown; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.rightmenu ul li:hover{
+    color: orange;
+    }
+
+.query{
+    width: 60px;
+    height: 60px;
+    box-sizing: 60px;
+}
+.card{
+	background: #2f3542;
+	padding: 0 20px;
+	margin: 0 500px;
+	width: cal(33%-20px);
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+}
+.contactinfo1{
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    color: white;
+
+}
+.contactinfo2{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+.contactinfo3{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+
+}
+.CourseStyle
+{
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px 10px 0px 10%;
+    top: 50%;
+    left: 55%;  
+    color: burlywood;
+    background: orange;
+    
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+table{
+    border-radius: 20px;
+    align-items: center;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 200px;
+    width: 450px;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    padding: 20px;
+    transform: translate(-50%,-50%);
+    color: black;
+    /* burlywood; */
+    background: #979A9A;
+    /*#0009; 
+    */
+    font-style: oblique;
+}
